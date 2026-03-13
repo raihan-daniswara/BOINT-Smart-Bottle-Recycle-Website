@@ -40,34 +40,34 @@ Proyek ini bertujuan meningkatkan kesadaran lingkungan dan mendorong perilaku ra
 
 ---
 
-# 🛠 Teknologi yang Digunakan
+## 🛠 Teknologi yang Digunakan
 
-## Backend
+### Backend
 
 * Laravel
 * REST API
 * MySQL
 
-## Frontend
+### Frontend
 
 * Blade Template
 * JavaScript
 * Tailwind CSS
 
-## IoT
+### IoT
 
 * Raspberry Pi
 * QR Code Scanner
 * Komunikasi API ke server
 
-## Tools
+### Tools
 
 * Git & GitHub
 * SMTP Email (OTP Verification)
 
 ---
 
-# 📊 Tujuan Proyek
+## 📊 Tujuan Proyek
 * Mengurangi limbah botol plastik
 * Meningkatkan kesadaran masyarakat terhadap daur ulang
 * Memberikan insentif digital melalui sistem poin
