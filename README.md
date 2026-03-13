@@ -17,7 +17,6 @@ Proyek ini bertujuan meningkatkan kesadaran lingkungan dan mendorong perilaku ra
 ## 🚀 Fitur Utama
 
 ### Fitur Pengguna
-
 * Registrasi dan login pengguna
 * Manajemen profil pengguna
 * Melihat riwayat setoran botol
@@ -25,10 +24,7 @@ Proyek ini bertujuan meningkatkan kesadaran lingkungan dan mendorong perilaku ra
 * Menukarkan poin dengan reward
 * Melihat riwayat penukaran reward
 
----
-
 ### Fitur Admin
-
 * Manajemen data pengguna
 * Monitoring perangkat mesin BOINT
 * Monitoring data setoran botol
@@ -36,10 +32,7 @@ Proyek ini bertujuan meningkatkan kesadaran lingkungan dan mendorong perilaku ra
 * Validasi penukaran reward
 * Dashboard statistik penggunaan sistem
 
----
-
-## Integrasi IoT
-
+### Integrasi IoT
 * Pairing perangkat dengan akun pengguna
 * Pengiriman data botol dari mesin ke server
 * Sinkronisasi data secara real-time
