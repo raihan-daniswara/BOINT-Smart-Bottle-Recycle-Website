@@ -1,8 +1,8 @@
 # BOINT – Smart Bottle Recycle Website
 
-## 📌 Project Overview
+## Project Overview
 
-**BOINT (Bottle Point)** adalah platform daur ulang pintar yang dirancang untuk mendorong masyarakat mendaur ulang botol plastik melalui sistem poin digital.
+**BOINT (Bottle Point)** adalah platform website daur ulang pintar yang dirancang untuk mendorong masyarakat mendaur ulang botol plastik melalui sistem poin digital.
 
 Platform ini mengintegrasikan **mesin pengumpul botol berbasis IoT** dengan **aplikasi web**, yang berfungsi untuk:
 
@@ -14,7 +14,7 @@ Proyek ini bertujuan meningkatkan kesadaran lingkungan dan mendorong perilaku ra
 
 ---
 
-## 🚀 Fitur Utama
+## Fitur Utama
 
 ### Fitur Pengguna
 * Registrasi dan login pengguna
@@ -40,7 +40,7 @@ Proyek ini bertujuan meningkatkan kesadaran lingkungan dan mendorong perilaku ra
 
 ---
 
-## 🛠 Teknologi yang Digunakan
+## Teknologi yang Digunakan
 
 ### Backend
 
@@ -67,7 +67,7 @@ Proyek ini bertujuan meningkatkan kesadaran lingkungan dan mendorong perilaku ra
 
 ---
 
-## 📊 Tujuan Proyek
+## Tujuan Proyek
 * Mengurangi limbah botol plastik
 * Meningkatkan kesadaran masyarakat terhadap daur ulang
 * Memberikan insentif digital melalui sistem poin
