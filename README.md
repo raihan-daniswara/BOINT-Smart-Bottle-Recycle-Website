@@ -14,6 +14,15 @@ Proyek ini bertujuan meningkatkan kesadaran lingkungan dan mendorong perilaku ra
 
 ---
 
+## Tujuan Project
+* Mengurangi limbah botol plastik
+* Meningkatkan kesadaran masyarakat terhadap daur ulang
+* Memberikan insentif digital melalui sistem poin
+* Mengintegrasikan teknologi IoT dengan platform web
+* Mendukung program sekolah ramah lingkungan **(Adiwiyata)**
+
+---
+
 ## Fitur Utama
 
 ### Fitur Pengguna
@@ -64,12 +73,3 @@ Proyek ini bertujuan meningkatkan kesadaran lingkungan dan mendorong perilaku ra
 
 * Git & GitHub
 * SMTP Email (OTP Verification)
-
----
-
-## Tujuan Proyek
-* Mengurangi limbah botol plastik
-* Meningkatkan kesadaran masyarakat terhadap daur ulang
-* Memberikan insentif digital melalui sistem poin
-* Mengintegrasikan teknologi IoT dengan platform web
-* Mendukung program sekolah ramah lingkungan **(Adiwiyata)**
